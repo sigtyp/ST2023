@@ -19,77 +19,21 @@ In addition to this, the shared task allows participants to use external resourc
 
 Data Formant:
 
-Word_1
-LId_1
-Word_2
-LId_2
-Labels
-Yannick
-en
-Yannig
-br
-der
-creta
-ca
-creta
-la
-der
-luminescens
-nn
-lumen
-la
-der
-admonester
-fr
-admoneō
-la
-der
-gnit
-en
-gnit
-is
-cog
-roh
-de
-raw
-en
-cog
-duodecimate
-en
-duodecimatus
-la
-der
-coherent
-en
-cohaērēns
-la
-der
-corpulent
-en
-corpulentus
-la
-der
-prosperitat
-ca
-prosperitās
-la
-der
-hélas
-fr
-helaas
-nl
-cog
-mi
-en
-mă
-ro
-cog
-phillumenism
-en
-lumen
-la
-der
-
+| Word_1 | LId_1 |  Word_2 |  LId_2 | Labels |
+| ------ | ----- | ------- | ------ | ------ |
+| Yannick | en |  Yannig |  br | der         |
+| creta | ca |  creta |  la | der            |
+| luminescens | nn |  lumen |  la | der      |
+| admonester | fr |  admoneō |  la | der|
+| gnit | en |  gnit |  is | cog|
+| roh | de |  raw |  en | cog|
+| duodecimate | en |  duodecimatus |  la | der|
+| coherent | en |  cohaērēns |  la | der|
+| corpulent | en |  corpulentus |  la | der|
+| prosperitat | ca |  prosperitās |  la | der|
+| hélas | fr |  helaas |  nl | cog|
+| mi | en |  mă |  ro | cog|
+| phillumenism | en |  lumen |  la | der|
 
 Evaluation Procedure
 =======================
