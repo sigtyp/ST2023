@@ -38,7 +38,7 @@ Data Formant:
 Evaluation Procedure
 =======================
 The standard evaluation metrics for evaluating and ranking the teams will be macro-averaged F1 scores for supervised classification. For unsupervised methods, we will follow the standard cluster performance evaluation process. The number of clusters will be same as the number of original classes and evaluated with the cluster accuracy using the forula:
-		$$Acc = {max_m{\sum_{i=1}^n 1( l_i=m (c_i) \over n}} $$
+		$$Acc = {max_m{\sum_{i=1}^n 1(l_i=m (c_i)) \over n}} $$
 
 where $l_i$ is the ground truth label, $c_i$ is the cluster assignment produced by the algorithm and $m$ ranges over all possible one-to-one mappings between clusters and labels.
 
