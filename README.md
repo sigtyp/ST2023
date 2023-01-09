@@ -67,11 +67,11 @@ In order to register for the Shared Task, please fill out the form given in the 
 
 List of Task Organizers
 ================
-Priya Rani, PhD Student, SFI  Centre for Research and Training in AI, Data Science Institute, University of Galway
-Koustava Goswami, Adobe Research, Bangalore, India; Former PhD Student, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
-Adrian Doyle,  Research associate, Insight SFI Research Centre for Data Analytic, Data Science Institute, University of Galway
-Bernardo Stearns, Research associate, Insight SFI Research Centre for Data Analytic, Data Science Institute, University of Galway
-Theodorus Fransen, Postdoctoral Researcher, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway
+Priya Rani, PhD Student, SFI  Centre for Research and Training in AI, Data Science Institute, University of Galway <br>
+Koustava Goswami, Adobe Research, Bangalore, India; Former PhD Student, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway <br>
+Adrian Doyle,  Research associate, Insight SFI Research Centre for Data Analytic, Data Science Institute, University of Galway <br>
+Bernardo Stearns, Research associate, Insight SFI Research Centre for Data Analytic, Data Science Institute, University of Galway <br>
+Theodorus Fransen, Postdoctoral Researcher, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway <br>
 John P. McCrae, Assistant Professor, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway
 
 Contact Details
