@@ -43,12 +43,12 @@ where li is the ground truth label, ci is the cluster assignment produced by the
 
 Dates
 =========
--Training data Release: 9 January 2023
--Test data Release: 24 February 2023
--Submissions Due: 10 March 2023
--Notification: 20 March 2023
--Camera-ready Due: 27 March 2023
--Workshop: May 2 or 6 2023
+-Training data Release: 9 January 2023 <br>
+-Test data Release: 24 February 2023 <br>
+-Submissions Due: 10 March 2023 <br>
+-Notification: 20 March 2023 <br>
+-Camera-ready Due: 27 March 2023 <br>
+-Workshop: May 2 or 6 2023 <br>
 
 Submission
 ==================
