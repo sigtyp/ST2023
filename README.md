@@ -8,13 +8,13 @@ As there has been little work on automatic cognate identification, it is still a
 
 Sub-tasks
 ===========
-The tasks are multiclass classification tasks which require that the relationship between pairs of words be identified as either a cognate relationship, a derivative relationship, or no relationship.
-a. Supervised: Cognate and Derivative Detection
-b. Unsupervised: Cognate and Derivative Detection
+The tasks are multiclass classification tasks which require that the relationship between pairs of words be identified as either a cognate relationship, a derivative relationship, or no relationship.<br>
+a. Supervised: Cognate and Derivative Detection <br>
+b. Unsupervised: Cognate and Derivative Detection <br>
 
 Data
 ======
-We will provide 232,482 annotated word pairs in 34 languages, including both high-resourced and less-resourced languages. Each word pair is annotated with a language for each word, and with one of the three categories based on the relationship between the pair; cognate, derivative or none. This data was collected and annotated using wiktionary. 
+We will provide 232,482 annotated word pairs in 34 languages, including both high-resourced and less-resourced languages. Each word pair is annotated with a language for each word, and with one of the three categories based on the relationship between the pair; cognate, derivative or none. This data was collected and annotated using wiktionary. <br>
 In addition to this, the shared task allows participants to use external resources as long as they are openly available and can be, in theory, used by other participants for research purposes. In case participants decide to use external resources and data in their system they should use proper citation and provide the details of the dataset in the system description.
 
 Data Formant:
@@ -43,12 +43,12 @@ where li is the ground truth label, ci is the cluster assignment produced by the
 
 Dates
 =========
--Training data Release: 9 January 2023 <br>
--Test data Release: 24 February 2023 <br>
--Submissions Due: 10 March 2023 <br>
--Notification: 20 March 2023 <br>
--Camera-ready Due: 27 March 2023 <br>
--Workshop: May 2 or 6 2023 <br>
+Training data Release: 9 January 2023 <br>
+Test data Release: 24 February 2023 <br>
+Submissions Due: 10 March 2023 <br>
+Notification: 20 March 2023 <br>
+Camera-ready Due: 27 March 2023 <br>
+Workshop: May 2 or 6 2023 <br>
 
 Submission
 ==================
@@ -62,8 +62,8 @@ Paper submission instructions will be the same as for the workshop. Each team pa
 
 Important Links
 ==================
-In order to register for the Shared Task, please fill out the form given in the link below.
-Registration
+In order to register for the Shared Task, please fill out the form given in the link below.<br>
+[Registration](https://docs.google.com/forms/d/e/1FAIpQLSd8cPggOcbDvDnbzkyNUJgBw-c1EjOMmiuq7VkCx1zUfSuGOA/viewform?usp=sf_link)
 
 List of Task Organizers
 ================
