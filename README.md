@@ -42,7 +42,7 @@ The standard evaluation metrics for evaluating and ranking the teams will be mac
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
    Acc=  
 
-$$ \sum_{i=1}^n $$
+$$\left( \sum_{i=1}^n) $$
 where $l_i$ is the ground truth label, $c_i$ is the cluster assignment produced by the algorithm and $m$ ranges over all possible one-to-one mappings between clusters and labels.
 
 Dates
