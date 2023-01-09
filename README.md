@@ -39,7 +39,7 @@ Evaluation Procedure
 =======================
 The standard evaluation metrics for evaluating and ranking the teams will be macro-averaged F1 scores for supervised classification. For unsupervised methods, we will follow the standard cluster performance evaluation process. The number of clusters will be same as the number of original classes and evaluated with the cluster accuracy using
 			
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right \over n) \left( \sum_{k=1}^n b_k^2 \right)$$
   
 
 $$Acc={max_m{\left( \sum_{i=1}^n \right) 1 \left( l_i=m (c_i) \right) \over n}} \$$
