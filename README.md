@@ -48,7 +48,7 @@ Training data Release: 9 January 2023 <br>
 Test data Release: 27 February 2023 <br>
 Submissions Due: 15 March 2023 <br>
 Notification: 20 March 2023 <br>
-Camera-ready Due: 27 March 2023 <br>
+Camera-ready Due: 30 March 2023 <br>
 Workshop: May 2 or 6 2023 <br>
 
 Submission
